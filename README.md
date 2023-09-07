@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wallis
-- 🌱 I’m a software engineer working remotely from NYC. I'm currently learning DevOps. 
+- 🌱 I’m a software engineer working remotely from Boston. I like learning new tools, writing documentation, and solving problems. 
 
 <!---
 wallismu/wallismu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
