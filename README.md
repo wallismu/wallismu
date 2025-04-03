@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Wallis
-- 🌱 I’m a software engineer working remotely from Boston. I like learning new tools, writing documentation, and solving problems. 
+- 🌱 I’m a software engineer working remotely from Boston. I like learning new tools, writing documentation, and solving problems.
+- 🌎 Find me on: [LinkedIn](https://www.linkedin.com/in/wallis-muraca/) | [CodePen](https://codepen.io/WallisM)
 
 <!---
 wallismu/wallismu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
